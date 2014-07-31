@@ -1,0 +1,16 @@
+cat.aliases
+cat.allocation
+cat.check_allocation
+cat.count
+cat.disable_allocation
+cat.fielddata
+cat.health
+cat.index_routing
+cat.indices
+cat.master
+cat.nodes
+cat.pending_tasks
+cat.plugins
+cat.recovery
+cat.shards
+cat.thread_pool
